@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Om Patel</h1>
+<h1 align="center">Hi 👋🏻, I'm Om Patel</h1>
 <h3 align="center">A Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Competitive Programming & Machine Learning**
 
 - 📫 How to reach me **ompatel4306@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vG-jLUkHy2EVZaySsp_9Nunjs6Bailm_/view?usp=sharing](https://drive.google.com/file/d/1vG-jLUkHy2EVZaySsp_9Nunjs6Bailm_/view?usp=sharing)
+- 📄 Know about my experiences [www.linkedin.com/in/ompatel4306](www.linkedin.com/in/ompatel4306)
 
 - ⚡ Fun fact **I can play Guitar.**
 
